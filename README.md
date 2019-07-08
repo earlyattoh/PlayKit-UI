@@ -7,7 +7,7 @@
 
 - We can also go as far as creating theme related templates such as 
 —Ecommerce
-—Bot Design
+—Bot 
 —Video Streaming
 —Social Sharing 
 —Fintech & Digital Banking
